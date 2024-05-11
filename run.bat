@@ -1,0 +1,1 @@
+del /s *.class && javac Main.java && java Main
